@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlvaroMeep
 - 👀 I’m interested in Data science and Data Enginnering
-- 🌱 I’m currently learning AWS Lambdas
-- 💞️ I’m looking to collaborate on mobility and biotatistics researching
+- 🌱 I’m currently learning AWS Lambdas and Docker
+- 💞️ I’m looking to collaborate on mobility and applied statistics
 - 📫 How to reach me: alvaro.huete89@gmail.com
 
 <!---
